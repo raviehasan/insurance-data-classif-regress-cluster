@@ -7,4 +7,4 @@
 - Fikri Dhiya Ramadhana
 - Ravie Hasan Abud
 
-## Laporan eksperimen dan analisisnya (exploratory data analysis, experiment setup, serta experiment evaluation & analysis) dapat dilihat melalui [slide ini](Report%20and%20Analysis.pdf)
+## The Experiment report and analysis which includes exploratory data analysis, experiment setup, and experiment evaluation & analysis can be viewed [here](Report%20and%20Analysis.pdf)
