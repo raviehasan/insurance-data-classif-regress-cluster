@@ -7,4 +7,4 @@
 - Fikri Dhiya Ramadhana
 - Ravie Hasan Abud
 
-## The Experiment report and analysis which includes exploratory data analysis, experiment setup, and experiment evaluation & analysis can be viewed [here](Report%20and%20Analysis.pdf)
+## Experiment report and analysis which includes exploratory data analysis, experiment setup, and experiment evaluation & analysis can be viewed [here](Report%20and%20Analysis.pdf)
